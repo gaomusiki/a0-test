@@ -12,4 +12,4 @@ torch>=2.1.0
 torchvision>=0.16.0
 triton>=2.2.0
 transformers>=4.39.3
-einops>=0.8.0
+einops>=0.8.01
